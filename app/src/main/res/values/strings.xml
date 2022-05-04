@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Intelligent Parking</string>
+    <string name="splash_screen">SplashScreen</string>
+
+    <string name="firebase_page_protocol">https</string>
+    <string name="firebase_page_url">parking-6e284.firebaseapp.com</string>
+    <string name="firebase_page_path">/__/auth/action</string>
+    <!--    https://parking-system-v1.firebaseapp.com/__/auth/action?mode=resetPassword&oobCode=sPNW-vWnGHwN3-ILdtOo-blKWVllqnIX7b-Rf6deJOYAAAF184Vgvw&apiKey=AIzaSyDm3T3QPk_K8ViBY8m4PhPJzuVTdMsueas&lang=en-->
+
+
+    <string name="map_key">AIzaSyDPOoA2R78qWichKzVCUn1OZrn6Als8T6s</string>
+    <string name="platerecognizer_api_key">c125d53a5c20c00a3c5036970f80ccf13407f9eb</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main_owner">MainActivity</string>
+
+    <string name="title_dashboard_fragment">Dashboard</string>
+    <string name="title_scan_fragment">Scan</string>
+    <string name="title_profile_fragment">Profile</string>
+    <string name="title_add_fragment">Add</string>
+
+    <string name="notification_group_id_1">check_booking</string>
+    <string name="notification_channel_id_1">channeldID1</string>
+    <string name="notification_group_name_1">Group1</string>
+    <string name="notification_channel_name_1">Channelname</string>
+</resources>

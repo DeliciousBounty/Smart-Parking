@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "330504805079",
+    "firebase_url": "https://parking-6e284-default-rtdb.firebaseio.com",
+    "project_id": "parking-6e284",
+    "storage_bucket": "parking-6e284.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330504805079:android:5e1765cbcd1eef7cb16e92",
+        "android_client_info": {
+          "package_name": "com.nathan.parkingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330504805079-vk290stufm7ap11561ofl4u5n3j91chb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLq-KQk3OTpCtji7KsQFNBRmGv4U3g2_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330504805079-vk290stufm7ap11561ofl4u5n3j91chb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
